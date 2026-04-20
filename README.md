@@ -1,13 +1,13 @@
-👩‍💻 Hey there, I'm Jyotirmoyee Mitra! 🚀
+ Hey there, I'm Jyotirmoyee Mitra! 
 Python Enthusiast | Data Engineer | Full-Stack Learner | Debugging Ninja<br/>
 
 🔹 From India, currently residing in Bangalore, constantly upgrading my coding skills.<br/><br/>
 🔹 I use GitHub as my practice ground, documenting my progress as I learn and refine my skills.<br/>
 🔹 Passionate about Python, Data Engineering, and Full-Stack Development, always striving to write better, cleaner code.<br/>
 
-💡 I do competitive coding to strengthen my concepts, intending to someday tackle [Hackerrank](https://www.hackerrank.com/profile/jyotirmoyee25mi1), [LeetCode](https://leetcode.com/u/jyotirmoyee25mitra/), and CodeChef—just for fun!<br/><br/>
-✍️ I also write informative articles on my learning topics on [LinkedIn](www.linkedin.com/in/jyotirmoyee-mitra-5210a41a5)—because sharing knowledge is just as important as gaining it!<br/>
-⚡ Outside of coding, I enjoy painting on my Instagram art page [the.commons_uncommon](https://www.instagram.com/the.commons_uncommon/#), doodling, and reading classics.<br/>
+I do competitive coding to strengthen my concepts, intending to someday tackle [Hackerrank](https://www.hackerrank.com/profile/jyotirmoyee25mi1), [LeetCode](https://leetcode.com/u/jyotirmoyee25mitra/), and CodeChef—just for fun!<br/><br/>
+I also write informative articles on my learning topics on [LinkedIn](www.linkedin.com/in/jyotirmoyee-mitra-5210a41a5)—because sharing knowledge is just as important as gaining it!<br/>
+Outside of coding, I enjoy painting on my Instagram art page [the.commons_uncommon](https://www.instagram.com/the.commons_uncommon/#), doodling, and reading classics.<br/>
 
 Let’s build, break, debug, and grow together! 🚀<br/><br/>
 
